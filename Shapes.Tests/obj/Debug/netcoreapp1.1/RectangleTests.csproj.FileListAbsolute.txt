@@ -1,0 +1,14 @@
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/RectangleTests.deps.json
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/RectangleTests.runtimeconfig.json
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/RectangleTests.runtimeconfig.dev.json
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/RectangleTests.dll
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/RectangleTests.pdb
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Rectangle.dll
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Rectangle.pdb
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/RectangleTests.csproj.CoreCompileInputs.cache
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/RectangleTests.AssemblyInfo.cs
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/RectangleTests.dll
+/Users/David/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/RectangleTests.pdb
